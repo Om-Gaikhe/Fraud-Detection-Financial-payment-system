@@ -1,7 +1,4 @@
 # Fraud-Detection-Financial-payment-system
-### PROBLEM STATEMENT 
-
-Create a model to predict fraudulent bank payments using synthetic data with the goal of identifying and preventing fraud, safeguarding clients, and minimizing losses. Other related issues include increasing accuracy, cutting down on detection times, and better understanding the characteristics of fraud to improve prevention methods.
 
 ### INTRODUCTION 
 
