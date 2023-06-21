@@ -7,8 +7,11 @@ Data- BankSim is an agent-based simulator designed to generate synthetic data fo
 ### INITIAL HYPOTHESIS
 
 •	Hypothesis 1: There is a class imbalance in the dataset, with significantly fewer fraudulent transactions than non-fraudulent transactions.
+
 •	Hypothesis 2: The amount of money spent on a transaction is a significant predictor of fraud.
+
 •	Hypothesis 3: There may be some correlation between the features in the dataset that could be exploited to better classify fraudulent transactions.
+
 •	Hypothesis 4: Certain classification algorithms may be more effective at detecting fraud than others.
 
 ### METHODOLOGY
